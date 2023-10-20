@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)](https://github.com/quanganh208)
 
 <h1 align="center">Hi 👋, I'm Nguyen Mac Quang Anh</h1>
-<h3 align="center">A passionate mobile developer from Viet Nam</h3>
+<h3 align="center">A passionate mobile developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quanganh208&label=Profile%20views&color=0e75b6&style=flat" alt="quanganh208" /> </p>
 
