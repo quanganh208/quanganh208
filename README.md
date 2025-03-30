@@ -1,4 +1,6 @@
+<div align="center">
 <img src="240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif" align="center" style="width: 100%" />
+</div>  
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyen mac Quang Anh
 
