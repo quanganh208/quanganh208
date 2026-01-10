@@ -57,11 +57,17 @@ Contact   :  anhnmq.contactwork@gmail.com
 ## Featured Repositories
 
 <div align="center">
+  <a href="https://github.com/quanganh208/AutoSave-SolutionAC-CodePTIT">
+    <img src="https://github-readme-stats-eight-delta-87.vercel.app/api/pin/?username=quanganh208&repo=AutoSave-SolutionAC-CodePTIT&title_color=58a6ff&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" />
+  </a>
+  <a href="https://github.com/quanganh208/DSA-CodePTIT">
+    <img src="https://github-readme-stats-eight-delta-87.vercel.app/api/pin/?username=quanganh208&repo=DSA-CodePTIT&title_color=58a6ff&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" />
+  </a>
   <a href="https://github.com/quanganh208/timo-bank">
     <img src="https://github-readme-stats-eight-delta-87.vercel.app/api/pin/?username=quanganh208&repo=timo-bank&title_color=58a6ff&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" />
   </a>
-  <a href="https://github.com/quanganh208/sketch-lab">
-    <img src="https://github-readme-stats-eight-delta-87.vercel.app/api/pin/?username=quanganh208&repo=sketch-lab&title_color=58a6ff&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" />
+  <a href="https://github.com/quanganh208/flood-detection-system">
+    <img src="https://github-readme-stats-eight-delta-87.vercel.app/api/pin/?username=quanganh208&repo=flood-detection-system&title_color=58a6ff&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" />
   </a>
 </div>
 
