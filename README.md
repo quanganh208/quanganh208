@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0891b2&height=200&section=header&text=Quang%20Anh&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0891b2&height=200&section=header&text=Quang%20Anh&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer&descAlignY=60&descSize=20)
 
 <div align="center">
 
