@@ -4,9 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+%26+Mobile+Enthusiast;Building+Digital+Experiences)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=quanganh208&color=0891b2&style=flat-square&label=Profile+Views)
+
 </div>
 
 ## About Me
+
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```text
 Location  :  Ha Noi, Viet Nam
