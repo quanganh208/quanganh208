@@ -19,7 +19,7 @@ Contact   :  anhnmq.contactwork@gmail.com
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,python,java,dart,flutter,mongodb,mysql,postgresql,firebase,supabase,tailwind,docker,gcp,git,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,nestjs,express,python,java,c,cpp,kotlin,dart,flutter,mongodb,mysql,postgresql,firebase,supabase,tailwind,docker,gcp,vercel,git,github,vscode,figma,postman&theme=dark)](https://skillicons.dev)
 
 </div>
 
