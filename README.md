@@ -8,9 +8,7 @@
 
 ## About Me
 
-<table>
-  <tr>
-    <td>
+<img align="right" alt="Coding Penguin" width="250" src="216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif">
 
 ```text
 Location  :  Ha Noi, Viet Nam
@@ -19,12 +17,12 @@ Focus     :  Full Stack Development (Web & Mobile)
 Contact   :  anhnmq.contactwork@gmail.com
 ```
 
-</td>
-    <td>
-      <img alt="Coding Penguin" width="250" src="216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif">
-    </td>
-  </tr>
-</table>
+- Passionate about building scalable web & mobile applications
+- Love exploring new technologies and solving complex problems
+- Currently diving deep into cloud architecture and DevOps
+- Open to collaboration on interesting projects
+
+<br clear="right"/>
 
 ## Tech Stack
 
