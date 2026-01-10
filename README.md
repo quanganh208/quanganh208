@@ -17,6 +17,8 @@ Focus     :  Full Stack Development (Web & Mobile)
 Contact   :  anhnmq.contactwork@gmail.com
 ```
 
+<br clear="right"/>
+
 ## Tech Stack
 
 <div align="center">
