@@ -4,13 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+%26+Mobile+Enthusiast;Building+Digital+Experiences)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=quanganh208&color=0891b2&style=flat-square&label=Profile+Views)
-
 </div>
 
 ## About Me
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding Penguin" width="250" src="216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif">
 
 ```text
 Location  :  Ha Noi, Viet Nam
@@ -83,6 +81,12 @@ Contact   :  anhnmq.contactwork@gmail.com
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=0891b2)](https://instagram.com/quanganh.208)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=0891b2)](https://github.com/quanganh208)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=0891b2)](mailto:anhnmq.contactwork@gmail.com)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=quanganh208&color=0891b2&style=flat-square&label=Profile+Views)
 
 </div>
 
