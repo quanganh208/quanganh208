@@ -38,7 +38,7 @@ Contact   :  anhnmq.contactwork@gmail.com
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=quanganh208&theme=darkhub&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=quanganh208&theme=darkhub&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
