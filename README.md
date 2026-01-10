@@ -8,7 +8,9 @@
 
 ## About Me
 
-<img align="right" alt="Coding Penguin" width="250" src="216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif">
+<table>
+  <tr>
+    <td>
 
 ```text
 Location  :  Ha Noi, Viet Nam
@@ -17,7 +19,12 @@ Focus     :  Full Stack Development (Web & Mobile)
 Contact   :  anhnmq.contactwork@gmail.com
 ```
 
-<br clear="right"/>
+</td>
+    <td>
+      <img alt="Coding Penguin" width="250" src="216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif">
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack
 
