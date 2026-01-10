@@ -1,37 +1,79 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0891b2&height=200&section=header&text=Quang%20Anh&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20)
+
 <div align="center">
-<img src="240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif" align="center" style="width: 100%" />
-</div>  
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyen mac Quang Anh
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+%26+Mobile+Enthusiast;Building+Digital+Experiences)](https://git.io/typing-svg)
 
-## Web & Mobile Developer
+</div>
 
-I'm studying at Post and Telecommunication Institute of Technology. I have experience in Frontend development, but I want to expand my skills to become a Full Stack Developer.
+## About Me
 
-- 🌍  I'm based in Ha Noi, Viet Nam
-- ✉️  You can contact me at [anhnmq.contactwork@gmail.com](mailto:anhnmq.contactwork@gmail.com)
+```text
+Location  :  Ha Noi, Viet Nam
+Education :  Post and Telecommunication Institute of Technology
+Focus     :  Full Stack Development (Web & Mobile)
+Contact   :  anhnmq.contactwork@gmail.com
+```
 
-### Skills
+## Tech Stack
 
-<img align="right" alt="Coding" width="200" src="216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif">
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-</p>
+<div align="center">
 
-### Socials
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,python,java,dart,flutter,mongodb,mysql,postgresql,firebase,supabase,tailwind,docker,gcp,git,vscode&theme=dark)](https://skillicons.dev)
 
-<p align="left"> <a href="https://www.facebook.com/quanganh.208" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/quanganh208" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/quanganh.208" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+</div>
 
-### Badges
+## GitHub Stats
 
-<b>My GitHub Stats</b>
+<div align="center">
+  <img src="https://github-readme-stats-eight-delta-87.vercel.app/api?username=quanganh208&show_icons=true&title_color=58a6ff&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats-gold-kappa.vercel.app/?user=quanganh208&theme=dark&ring=0891b2&fire=0891b2&currStreakLabel=58a6ff&hide_border=true&background=0d1117" height="180" />
+</div>
 
-<a href="http://www.github.com/quanganh208"><img src="https://github-readme-stats.vercel.app/api?username=quanganh208&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="quanganh208's GitHub stats" /></a>
+<div align="center">
+  <img src="https://github-readme-stats-eight-delta-87.vercel.app/api/top-langs/?username=quanganh208&layout=compact&title_color=58a6ff&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" />
+</div>
 
-<a href="http://www.github.com/quanganh208"><img src="https://github-readme-streak-stats.herokuapp.com/?user=quanganh208&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## Trophies
 
-<a href="https://github.com/quanganh208" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanganh208&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
 
-<b>Top Repositories</b>
+[![trophy](https://github-profile-trophy.vercel.app/?username=quanganh208&theme=darkhub&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div width="100%" align="center"><a href="https://github.com/quanganh208/AutoSave-SolutionAC-CodePTIT" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=quanganh208&repo=AutoSave-SolutionAC-CodePTIT&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+</div>
+
+## Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=quanganh208&bg_color=0d1117&color=58a6ff&line=0891b2&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quanganh208/quanganh208/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quanganh208/quanganh208/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/quanganh208/quanganh208/output/snake.svg" />
+</picture>
+
+## Featured Repositories
+
+<div align="center">
+  <a href="https://github.com/quanganh208/timo-bank">
+    <img src="https://github-readme-stats-eight-delta-87.vercel.app/api/pin/?username=quanganh208&repo=timo-bank&title_color=58a6ff&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" />
+  </a>
+  <a href="https://github.com/quanganh208/sketch-lab">
+    <img src="https://github-readme-stats-eight-delta-87.vercel.app/api/pin/?username=quanganh208&repo=sketch-lab&title_color=58a6ff&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" />
+  </a>
+</div>
+
+## Connect With Me
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=0891b2)](https://facebook.com/quanganh.208)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=0891b2)](https://instagram.com/quanganh.208)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=0891b2)](https://github.com/quanganh208)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=0891b2)](mailto:anhnmq.contactwork@gmail.com)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:161b22,100:0d1117&height=120&section=footer)
